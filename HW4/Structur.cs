@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace HW4
 {
-    internal class Program
+    struct Account
     {
-        static void Main(string[] args)
-        {
-        }
+        public string Login , Password;
     }
+    
+    
 }
