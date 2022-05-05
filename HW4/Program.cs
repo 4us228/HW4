@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace HW4
 { 
     /// <summary>
-    /// Выполнил Цубера Кристиан
+    /// Выполнил Цубера Кристиан.
     /// </summary>
     internal class Program
     { 
